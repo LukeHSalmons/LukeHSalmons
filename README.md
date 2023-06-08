@@ -2,12 +2,8 @@
 
 Hello! :wave:
 
-My name is Luke Hunter-Salmons, an enthusiastic and ambitious Software Engineer based in London, England who has recently completed an intensive 4 month bootcamp with HyperionDev. 
+I'm Luke Hunter-Salmons, an enthusiastic and ambitious Software Engineer based in London, England. I recently completed an intensive 4-month bootcamp with HyperionDev, where I gained hands-on experience in a wide range of programming languages and technologies.
 
-As part of the bootcamp and courses I have completed, I have created a range of projects over multiple different programming languages and technologies to develop my skills as a Software Engineer, this includes: 
-* Software Development in Python & SQL
-* Web Development with HTML, CSS & JavaScript
-* Web Apps with React.js & Node.js
-* Object Orientated Programming
-* Using Git/Github
-* Django
+During the bootcamp and various online courses, I successfully built projects across various domains, including software development in Python and SQL, web development with HTML, CSS, and JavaScript, web apps with React.js and Node.js, and object-oriented programming. I also gained proficiency in using Git/GitHub and worked with Django.
+
+I'm passionate about leveraging my skills to develop innovative solutions and I'm excited to continue exploring new technologies and contributing to impactful projects.
